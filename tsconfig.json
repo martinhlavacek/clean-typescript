@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"sourceMap": true,
+		"outFile":"bin/app.js",
+		"module": "system"
+	},
+
+	"include": [
+        "**/*"
+    ]
+}

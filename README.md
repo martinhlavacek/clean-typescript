@@ -1,1 +1,2 @@
 # clean-typescript
+tsc -p .
